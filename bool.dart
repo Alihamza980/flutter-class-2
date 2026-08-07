@@ -4,7 +4,6 @@ int abc = 29;
 int a = 15;
 int q = 25;
 int k = 30;
-int i = 35;
 
 bool w = abc>a && !(a<abc);
 

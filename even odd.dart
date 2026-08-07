@@ -7,4 +7,5 @@ void main(){
     print("odd number");
     
   }
+  print("even and odd number");
 } 
