@@ -54,14 +54,17 @@ void main(){
 
 // example 7
 
-var f1 = {1 : "banana" , 2 : "orange"};
-var f2 = {3 : "mango"};
-var f3 = {4 : "apple"};
+// var f1 = {1 : "banana" , 2 : "orange"};
+// var f2 = {3 : "mango"};
+// var f3 = {4 : "apple"};
 
-var fruit = {} ..addAll(f1)
-..addAll(f2)
-..addAll(f3);
-print(fruit);
+// var fruit = {} ..addAll(f1)
+// ..addAll(f2)
+// ..addAll(f3);
+// print(fruit);
+
+
+
 
 
 }
